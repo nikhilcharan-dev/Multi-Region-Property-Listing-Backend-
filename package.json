@@ -1,0 +1,29 @@
+{
+  "name": "multi-region-property",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surya250106/multi-region-property.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Surya250106/multi-region-property/issues"
+  },
+  "homepage": "https://github.com/Surya250106/multi-region-property#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "jest": "^30.2.0"
+  }
+}

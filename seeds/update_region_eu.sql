@@ -1,0 +1,1 @@
+UPDATE properties SET region_origin = 'eu';
